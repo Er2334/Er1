@@ -59,43 +59,43 @@ https://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_dash_full_e_7CF9BB041AD89713AD8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
 #EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="Argentina" ch-number="23" type="channel", Volver
-https://chromecast.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_cenc/Volver.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Volver/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Volver.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 #EXTINF:-1 tvg-id="America 24.uy" tvg-name="America 24.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" group-title="Argentina" ch-number="24" type="channel",A24
-https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_cenc/America24.mpd
+https://cdn.cvattv.com.ar/live/c7eds/America24/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 #EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5N.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="Argentina" ch-number="25" type="channel",C5N
-https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MDg2ODk3Iiwic2lwIjoiMTg2LjEyLjE4NC4yMzkiLCJwYXRoIjoiL2xpdmUvYzVlZHMvQzlOX0M0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiZDgzN2YxNDM4OWU1ODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiNjIiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.opRAYQY8kBVeO_sb5RlfXjWXtuqTobKR2f3VJCSOuAiub0jwIjMyo87zo5wAFF_sX8H6XpE6h_3s0xQzQ5zrjA==/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
+https://cdn.cvattv.com.ar/live/c7eds/C5N/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/C5N.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 #EXTINF:-1 tvg-id="Canal 26.uy" tvg-name="Canal 26.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" group-title="Argentina" ch-number="26" type="channel",Canal 26
-https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_cenc/26_TV_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/26_TV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="Argentina" ch-number="28" type="channel",Cronica
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="Argentina" ch-number="28" type="channel",Cronica Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_cenc/CronicaTV.mpd
+https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CronicaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 #EXTINF:-1 tvg-id="721#IP Noticias HD" tvg-name="721#IP Noticias HD" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/IPNOT.png?raw=true" group-title="Argentina" ch-number="29" type="channel",IP Noticias
-https://chromecast.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_cenc/Investigacion_Periodistica.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Investigacion_Periodistica.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 #EXTINF:-1 tvg-id="La Nacion.uy" tvg-name="La Nacion.uy" tvg-logo="https://git.io/J35ry" group-title="Argentina" ch-number="30" type="channel",La Nación +
-https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_cenc/La_Nacion.mpd
+https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/La_Nacion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 #EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TN HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="Argentina" ch-number="31" type="channel",TN
-https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_cenc/TodoNoticias.mpd
+https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TodoNoticias.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
