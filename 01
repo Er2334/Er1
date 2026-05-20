@@ -150,32 +150,32 @@ https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/sa_dash_full_e_7CF9BB041AD89713
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 #EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-name="ESPN 4" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="Deportes" ch-number="104" type="channel",ESPN 4
-https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_cenc/ESPNHD.mpd
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
 #EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5522598607348.png" group-title="Deportes" ch-number="105" type="channel",ESPN 5
-https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_cenc/ESPN4.mpd
+https://cdn.cvattv.com.ar/live/c7eds/ESPN4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 #EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/15905984073899.png" group-title="Deportes" ch-number="106" type="channel",ESPN 6
-https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_cenc/FoxSports3_UY.mpd
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
 #EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/12041360073463.png" group-title="Deportes" ch-number="107" type="channel",ESPN 7
-https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_cenc/FoxSports2_UY.mpd
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes" ch-number="108" type="channel",ESPN Premium
-https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_cenc/Fox_Sports_Premiun_HD.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Fox_Sports_Premiun_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes" ch-number="109" type="channel",TNT Sports Premium
-https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNT_Sports_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
