@@ -409,92 +409,92 @@ https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/sa_dash_full_e_7CF9BB041AD89713AD8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
 #EXTINF:-1 tvg-id="Animal Planet HD.uy" tvg-name="Animal Planet" tvg-logo="https://static.flow.com.ar/images/643/CH_LOGO/1920/1080/0/0/72827036071623.png" group-title="Variedades" ch-number="400" type="channel",Animal Planet
-https://chromecast.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_cenc/AnimalPlanet.mpd
+https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
 #EXTINF:-1 tvg-id="Discovery HD.uy" tvg-name="Discovery" tvg-logo="https://static.flow.com.ar/images/271/CH_LOGO/350/500/0/0/48950714073066.png" group-title="Variedades" ch-number="401" type="channel",Discovery
-https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_cenc/DiscoveryHD.mpd
+https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b0a76dd7a0df1e1b4320aeb1254d1a9:d011267775c38d6d2ab09b428c03d63f
 #EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-name="Discovery Home And Health" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSH&H.png?raw=true" group-title="Variedades" ch-number="402" type="channel",Discovery H&H
-https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_cenc/DiscoveryHomeHealthHD.mpd
+https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryHomeHealthHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
 #EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-name="Discovery ID" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" group-title="Variedades" ch-number="403" type="channel",Discovery ID
-https://chromecast.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_cenc/ID.mpd
+https://cdn.cvattv.com.ar/live/c7eds/ID/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ID.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=46ba409fb04e40fb86b466d97e3a9588:f129fb9b5d213e20e2abe529b8cf2597
 #EXTINF:-1 tvg-id="Discovery Science HD.uy" tvg-name="Discovery Science" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCNC.png?raw=true" group-title="Variedades" ch-number="404" type="channel",Discovery Science
-https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_cenc/Discovery_Science.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Discovery_Science.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
 #EXTINF:-1 tvg-id="Discovery Theater HD.uy" tvg-name="Discovery Theather" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DTHTR.png?raw=true" group-title="Variedades" ch-number="405" type="channel",Discovery Theather
-https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_cenc/Theater_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Theater_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58761c7b2819491eb3a0d765842c341a:9dabc48f88bd7f266734e57501bd6f47
 #EXTINF:-1 tvg-id="TLC HD.uy" tvg-name="Discovery TLC" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSTLC.png?raw=true" group-title="Variedades" ch-number="406" type="channel",Discovery TLC
-https://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_cenc/TLC.mpd
+https://cdn.cvattv.com.ar/live/c6eds/TLC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a611ddbf8c15fa617a0c391cb7b3e128:0cd1300baf8890380fd41124962195c4
 #EXTINF:-1 tvg-id="Discovery Turbo HD.uy" tvg-name="Discovery Turbo" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCTR.png?raw=true" group-title="Variedades" ch-number="407" type="channel",Discovery Turbo
-https://chromecast.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_cenc/DiscoveryTurbo.mpd
+https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryTurbo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34ee94c2263345f7a3a590661264e490:56757d656a697ab7a2e5e083b5d21bb5
 #EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-name="Discovery World" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DWRLD.png?raw=true" group-title="Variedades" ch-number="408" type="channel",Discovery World
-https://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_cenc/Discovery_World_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Discovery_World_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5883553207f13e3dc8cecd1113d5ba68:45434d40636dfa0e5312b93218e02185
 #EXTINF:-1 tvg-id="E!.uy" tvg-name="E-Entertaiment" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ENTMN.png?raw=true" group-title="Variedades" ch-number="409" type="channel",E-Entertaiment
-https://chromecast.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_cenc/E_Entertainment_Television.mpd
+https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/E_Entertainment_Television.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
 #EXTINF:-1 tvg-id="History HD.uy" tvg-name="History" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HSTRY.png?raw=true" group-title="Variedades" ch-number="414" type="channel",History
-https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_cenc/HistoryHD.mpd
+https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HistoryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
 #EXTINF:-1 tvg-id="History 2 HD.uy" tvg-name="History 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HST2.png?raw=true" group-title="Variedades" ch-number="415" type="channel",History 2
-https://chromecast.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_cenc/History_2.mpd
+https://cdn.cvattv.com.ar/live/c6eds/History_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/History_2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
 #EXTINF:-1 tvg-id="Hola TV HD.uy" tvg-name="Hola! TV" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Variedades" ch-number="416" type="channel",Hola! TV
-https://chromecast.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_cenc/Hola_TV.mpd
+https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Hola_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae51b1d67ff47adac7b6bd3a4b1120a:b4d6bb47193f33ffc12379cdc447455d
 #EXTINF:-1 tvg-id="Lifetime.uy" tvg-name="Lifetime" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LFTME.png?raw=true" group-title="Variedades" ch-number="417" type="channel",Lifetime
-https://chromecast.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_cenc/Lifetime.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Lifetime/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
 #EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-name="National Geographic" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NTGEO.png?raw=true" group-title="Variedades" ch-number="420" type="channel",Nat Geo
-https://chromecast.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_cenc/NatGeoHD.mpd
+https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NatGeoHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 #EXTINF:-1 tvg-id="Quiero.ar" tvg-name="Quiero Musica" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Música" ch-number="511" type="channel",Quiero Musica
-https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_cenc/Quiero_HD.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Quiero_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
 #EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-name="Canal De Las Estrellas" tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="Mundo" ch-number="605" type="channel",Canal De Las Estrellas
-https://chromecast.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_cenc/Canal_de_las_estrellas.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_de_las_estrellas.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
 #EXTINF:-1 tvg-id="TV Chile.uy" tvg-name="TV Chile" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo" ch-number="622" type="channel",TV Chile
-https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_cenc/Tv_Chile.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Tv_Chile.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="PARAGUAY", NEXT
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
