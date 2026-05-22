@@ -269,10 +269,10 @@ https://cdn.cvattv.com.ar/live/c7eds/A3_Series/sa_dash_full_e_7CF9BB041AD89713AD
 https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CinecanalHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5052547e0264ac592cb9e494ded01fa:52aaed1390a45a3e65f1cc97854b3ae8
+#KODIPROP:inputstream.adaptive.license_key=8163fd0ee7114def831210a84c6d1f02:d055e4cd5be81bedef6c50f9e206408a
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-name="Cinemax" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" group-title="Cine" ch-number="309" type="channel",Cinemax
-https://trs.cdn.rcs.net.ar/mnp/cinemax/output.mpd
-c5052547e0264ac592cb9e494ded01fa:52aaed1390a45a3e65f1cc97854b3ae8
+https://apps.playme.com.ar/dash/CH_CINEMAX/playlist.mpd
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -988,7 +988,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/635.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/791.m3u8
 
 #EXTINF:-1 tvg-logo="http://45.5.117.57:8999/playlist/tvg-logo/a0e5.png" group-title="DEPORTES", Azteca Deportes
-http://45.5.117.57:8999/play/a0e5/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", MC
 http://186.33.40.97:8789/play/13
