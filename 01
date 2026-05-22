@@ -1280,7 +1280,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/10532.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/458.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06589c968882b19431e883df28f54cf.webp" aspect-ratio="16:9", FOX DEPORTES
-https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" group-title="DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/512px-NBCSN_logo_%28flat%29.svg.png", NBC SPORTS
 https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
