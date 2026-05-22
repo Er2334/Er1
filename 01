@@ -1289,7 +1289,7 @@ https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes 1" ch-number="109" type="channel",TNT SPORTS POR TWITCH
-https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd
+
 
 #EXTINF:0 type="stream" channelId="-1" group-title="EVENTOS PY" tvg-logo="https://i.ibb.co/1fZk2KkT/KN-rezice.png", TIGO EVENTOS PY 
 https://tigocloud.desdeparagauy.com.py-east-1.amazonaws.com@live.enhdtv.com:8081/8160/index.m3u8
