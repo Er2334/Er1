@@ -2,8 +2,11 @@
 #EXTM3U  url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#KODIPROP:inputstream.adaptive.license_key=0c3dad7eaddfc65f929624beb1e2c2c9:15d4591781befa34568be50e6ce0f6a5
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-name="TV Pública.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Argentina" ch-number="7" type="channel",TV Pública
+https://edge1012.telecentro.net.ar/bpk-token/1ab@zj1uvx0pntw4kjm5q1eakwjlpno0gn3vz1nlhrca/TVPUBLICA/TVPUBLICA.isml/manifest.mpd?bkm-query
+
+0c3dad7eaddfc65f929624beb1e2c2c9:15d4591781befa34568be50e6ce0f6a5
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
