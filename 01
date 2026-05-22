@@ -271,7 +271,7 @@ https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/sa_dash_full_e_7CF9BB041AD89713
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8163fd0ee7114def831210a84c6d1f02:d055e4cd5be81bedef6c50f9e206408a
 #EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-name="Cinemax" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" group-title="Cine" ch-number="309" type="channel",Cinemax
-https://apps.playme.com.ar/dash/CH_CINEMAX/playlist.mpd
+https://apps.playme.com.ar/dash/CH_CINEMAX.mpd
 
 
 
