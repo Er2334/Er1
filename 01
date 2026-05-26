@@ -856,525 +856,632 @@ https://cdn.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"igJvw9RDRUzxquSGtojKmg","k":"dmXC9ueR1E8Efl_6knOCqg"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/160/160/0/0/68097404073421.png" group-title="ENTRETENIMIENTO",TNT Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LRXy0vj4H7rNgjkfWImqOg","k":"l8elApUAqB038rcNYnb8mg"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/160/160/0/0/9929073907327.png" group-title="ENTRETENIMIENTO",Universal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fGzDa5w_RPN7cTrUBIPghQ","k":"zq7PcLmXgJZ9l7nq9uKtXw"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png" group-title="ENTRETENIMIENTO",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DNFvnq3lvdq0H9PVn4BLyw","k":"iF3JOwaS4u_jdEmkpWFz7w"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" group-title="CINE & SERIES",Cinecanal
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XofSTte1RXaJVUj/pl6rHQ","k":"Hl18nmckivOOSOxW0iQVBw"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/800/542/0/0/60951863073142.png" group-title="CINE & SERIES",Cinemax
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"+m0bUt2YbY+qucymrbiHSw","k":"YCIlm6ntsf5mtFB7UeHBLw"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/400/400/0/0/33860159072069.png" group-title="CINE & SERIES",Comedy Central
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KmG3p5EgZKzGKgamriKsXA","k":"W/s3TWRHA1UPBjdTK8oEkQ"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/800/542/0/0/77211152071862.png" group-title="CINE & SERIES",AXN
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"l21wPLlSAqgIlyxyJUT64Q","k":"Vid1sXBALG4jCf9pueSOgg"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/800/542/0/0/35224800072040.png?worldtv2" group-title="CINE & SERIES",FX
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jOHsPiQCoXDL4Tt5zpuzDw","k":"gv3P3jLMAmc1R+WLUOK1rg"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/FX-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vTK3N70T/sony-channel.png" group-title="CINE & SERIES",Sony Channel
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"R7jREYBHxH/515T8psmZeg","k":"l6+Cmy3QN/uFVQuFsHV2hQ"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" group-title="CINE & SERIES",Sony Movies
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1sCypabXqnL29282BzZM6g","k":"KXcrRQOTFG6NG1YQf1Fjog"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/14/out/u/dash/SONY-MOVIES-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNPgTC2x/space-hd.png" group-title="CINE & SERIES",SPACE
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AQxFfZZ9WqLFfHJ/3dxe0w","k":"XiFMFwUsxIQW5nb/cS4Z8w"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/6/out/u/dash/SPACE-HD-H265/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NP3RrN2/tnt.png" group-title="CINE & SERIES",TNT
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"N5cdR8nmTXWEBY78/cQksw","k":"mUTs2kjvPWMlzPiasyvvgw"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/6/out/u/dash/TNT-HD-H265/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/400/400/0/0/18783550073421.png|worldtv2" group-title="CINE & SERIES",TNT Series
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jHw8egWBKlJF1kwOztCKQQ","k":"5WxN7fpsUfYXzHydLWH3qA"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/11/out/u/dash/TNT-SERIES-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpZq6zN8/universal-tv.jpg" group-title="CINE & SERIES",UNIVERSAL TV
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"SiunlgFaljahbYZC32G3jA","k":"Sl+9WC5V1gd7M7G/M5XD/w"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/7/out/u/dash/UNIVERSAL-CHANNEL-HD-H265/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9JprFc/unnamed-7.jpg" group-title="CINE & SERIES",Studio Universal
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"buDD9kBWMpGYX+A2bc7tZQ","k":"INz80DDEuqDgpzFhnhoBhw"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/7/out/u/dash/STUDIO-UNIVERSAL-HD-H265/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png" group-title="CINE & SERIES",Golden
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vA5MffsQ1IM1dXIAAYDMpQ","k":"JHNROC/Nch8ocsS9oVxSRQ"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BTjfF3p/golden-multiplex.png" group-title="CINE & SERIES",Golden Multiplex
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8jYBmXvAJOqWtrnR4riz/A","k":"Uhos/dP2SalUNCLcQfpMoA"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/14/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/800/542/0/0/86179590071069.png" group-title="CINE & SERIES",Golden Edge
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mKqQy2ILlyoNDWalHNrKVg","k":"bovVM3g1btf1ED2R77XlTg"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hMqVDX/golden-plus.png" group-title="CINE & SERIES",Golden Plus
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NVWCTuagnWcaI2Lzf1o5uQ","k":"8kDlteiifKhVDyOlU0UakA"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6D60Brn/golden-premier.png" group-title="CINE & SERIES",Golden Premier
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NPo1yDI8Ecu4PLOBvlW9ZA","k":"AszGrgfZl729i5eGXWm7NQ"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZFK4t3Q/golden-premier-2.png" group-title="CINE & SERIES",Golden Premier 2
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cXMkwsTmaUut2s/V+9OiDw","k":"qsvs+38dpEGkIKWCQAEC2g"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/GOLDEN-PREMIER-2HR-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png" group-title="CINE & SERIES",De Peli­cula
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IIAS0VS/USjcBEM8IuAGmA","k":"0XkTZxpxgh7X5MSTfNL7pQ"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ddtMWbg/DPelicula-Plus.png" group-title="CINE & SERIES",De Pelicula Plus
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cKOrHqPEXdVw2ipmCuXu2g","k":"Cp2w4I0Lc35qZOyu1SXUyw"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png" group-title="INFANTILES",Tooncast LA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_ZBOBL1APPqXt0gvP---oQ","k":"YA8FUR6edD2N4FY4DiQxDw"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/800/542/0/0/5456596307880.png? worldtv2" group-title="INFANTILES",Tooncast MX
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XJQYxXKegiT5mUDPW2wMRQ","k":"M2zX79HXoYKdDz0iwsjcCg"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/11/out/u/dash/TOONCAST-SD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1812/CH_LOGO/160/160/0/0/10249036073271.png" group-title="INFANTILES",ZooMoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BwZgxKB6tkT7pi2rBzBtQw","k":"Z4brVjN6MY_OC3-czPlkeA"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png" group-title="INFANTILES",Clan ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/160/160/0/0/43430600073531.png" group-title="INFANTILES",Discovery Kids LA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TYsyIKww5cgUjUvMIl76Wg","k":"62kY3-EX_EBTlqnDmGoEUA"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/800/542/0/0/43430600073531.png? worldtv2" group-title="INFANTILES",Discovery Kids MX
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kgHAeTG3TDfE4wqelrZMMA","k":"jhzk8bEYX2TkL5l0y60UQg"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vdfh1bd/disney-channel.png" group-title="INFANTILES",Disney Channel LA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cNkbFJNaNZnwLl2rce8h3A","k":"gD6RUuna9xe3cjmal4Agdg"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd?
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vdfh1bd/disney-channel.png" group-title="INFANTILES",Disney Channel MX
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8EfqGr3KbwMRdFTE3gttWw","k":"sDjIyPEUxWiVbUKOgK441w"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png" group-title="INFANTILES",Disney Jr. LA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"GGVJRJU7Jai2OSciqD22Uw","k":"QL9qnwW78OBnFe1XB_Dt0g"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/800/542/0/0/4140286707756.png? worldtv2" group-title="INFANTILES",Disney Jr. MX
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1B0q6bDYdboS6XxaPz7sgg","k":"OkQ4kuGtEVjG/Sv5yRRutg"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/400/400/0/0/70239189071229.png" group-title="INFANTILES",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=YzE2YzAyM2YtMzg2YS00YzhmLTllYmUtOGY0NTU3YmFiZDQ5",  "headers": {    "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",    "Referer":"https://player.sensa.com.ar/&webtoken=1.0"  }}
 https://cdn.sensa.com.ar/live/eds/Nickelodeon/live_dash_cld/Nickelodeon.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="INFANTILES",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BA77SsgAgIXQnBfbYCsk-g","k":"GUC4gRTeE9RgyxljJuY4pw"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/400/400/0/0/18422580072845.png" group-title="INFANTILES",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"x-_mO79oKkEk-zTAHregpw","k":"SGZ1Ebhmjflvo6uqYj5PaQ"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTILES",Cartoonito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zxXVoPkyn4FXedSn3XYPvA","k":"zQCoo_ahZ5VNT2ePqyMj2g"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/160/160/0/0/46888977071492.png" group-title="INFANTILES",Paka Paka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"t2e6v4bNlLuFQIQhPA_0fA","k":"BIR8YpnNe0jr2pJ-lXwWfA"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3983/CH_LOGO/160/160/0/0/96726193078010.png" group-title="INFANTILES",PLIM PLIM TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pHv7niRvO4QFwSJfrnPang","k":"pIZfuHQrRUH2SsNzcOkCpg"}],"type":"temporary"}
 https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd?
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10jGH2z/dreamworks.png" group-title="INFANTILES",DreamWorks
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"olXhOE2z6c5+A0noqpufdw","k":"QEzE+0X4LJp9/9PSSWzKIA"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/DREAM-WORKS-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/1993/LOGO/m/0" group-title="INFANTILES",Edye TV
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aVfRsmjeUtcKaa0oeWCDng","k":"AK61g6/DIefHWpWwgMcEQQ"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6QCpWYqK/canela-kids.webp" group-title="INFANTILES",CANELA KIDS
 https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="INFANTILES",BabyFirst
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Mg4csjzxWqj0Gp7dUrqmVQ","k":"Y8XleuKivH2rPGfKwabJVg"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/160/160/0/0/2335855007695.png" group-title="INFANTILES",Baby TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XPbacmLdt0wvNw3tYFb0bA","k":"eBCRJVZasXR_UR9-d-O7rw"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd?
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1804/CH_LOGO/160/160/0/0/25045866075258.png" group-title="INFANTILES",Canal Infantil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OWc5g_S6IvD4DAk0zgQkyA","k":"zZ80mMtjzHLRMXsUpnq5PA"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?
+
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/1593/LOGO/m/0" group-title="CULTURA",CURIOSITY CHANNEL
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0a/vG2xPKG6/3B3ODhdKFw","k":"yCXt55x/Y6qcFoRPZ+4rRQ"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/7/out/u/dash/CURIOSITY-HD-H265/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" group-title="CULTURA",History
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EmTjZnYWtSBgAoviVATWpA","k":"RwcgphUhV6XTxd6J3huQnA"}],"type":"temporary"}
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/HISTORY-CHANNEL-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/400/400/0/0/16627153073621.png" group-title="CULTURA",History 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RUpMVw-LZiB2zk8akx07Bg","k":"LnIz4ijX2KID4H4rCFhAGQ"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd
+
 #EXTINF:-1 tvg-logo="https://www.izzigo.tv/images/ch/2006/LOGO/m/0" group-title="CULTURA",Maussan Tv
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RFmHAp9ooV1y90ncaVTaHg","k":"sLTAaBs3GVAUbb0DzmOy1w"}],"type":"temporary"}
 https://aca-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" group-title="CULTURA",Discovery H&H
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"B2X2duMLG5g4YjC1Lu01GA","k":"MmJm0WKW47vh38wnSFPa2w"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/262/CH_LOGO/400/400/0/0/2118831607492.png" group-title="CULTURA",Discovery Turbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aQLVDsA20wFGsSuSf0Nj1A","k":"1A3F624Pj71Yq33WuRFDtQ"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/400/400/0/0/6146615007111.png" group-title="CULTURA",Investigation Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9BPKa0lVurfYmj0ku_jJiw","k":"WBaGE0NANc65jhiBX5dDbA"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" group-title="CULTURA",Discovery Science
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"tqHfzgbK9GPSm5H8iQuq0Q","k":"TOUMLuA6T77F3b9XvI5siw"}],"type":"temporary"}
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/DISCOVERY-SCIENCE-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/363/CH_LOGO/400/400/0/0/46230374071624.png" group-title="CULTURA",Discovery TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vtB8f7vGowJLqopEwFLdWQ","k":"pjLerWmBVrPyCDB2qhkrVw"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/400/400/0/0/72670030071181.png" group-title="CULTURA",Discovery Theater
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"p1O6bmsxPxKb1lkTZGgPBw","k":"8_jhp2M7JiyjeujDXzzR4g"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/400/400/0/0/24981309071389.png" group-title="CULTURA",Discovery World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"uUkBxpJocGg8W668Y0lmUw","k":"8E2iTNfrpt_dDWbqKi_rJA"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/400/400/0/0/24951383073066.png" group-title="CULTURA",Discovery SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dOyYazOIxi9fp8VR4iXQuA","k":"kyeCHeXqzlUIz1c3eMjDww"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/64/CH_LOGO/400/400/0/0/24951383073066.png" group-title="CULTURA",Discovery HD
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fyxtikYoD+Ur8jxe/2uavA","k":"hfRdIw79aXN12ns3PmggUw"}],"type":"temporary"}
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/DISCOVERY-CHANNEL-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/400/400/0/0/93120001074605.png" group-title="CULTURA",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2-pWgpeMVZPX-fMro_vQAA","k":"mSdUCV8FDVMWPAWf9OgVcQ"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/484/CH_LOGO/400/400/0/0/8882809507771.png" group-title="CULTURA",Sun Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"audXhym96dLzQgkBQRA2hw","k":"-wCbs33Y-5jikT9rdit55Q"}],"type":"temporary"}
 https://cdn.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/400/400/0/0/83674247072710.png" group-title="CULTURA",National Geographic
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FXwPsr/cMjUh1Sq0O3+hMQ","k":"bErze2q8csvNkap3FpaDNg"}],"type":"temporary"}
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/NAT-GEO-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S5V0kxb/tv-globo.png" group-title="NOVELAS y VARIEDADES",TV Globo
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"p73q/j6gWL4AKnRtt4fEkA","k":"c7DmW5aCV9qq5GHIZfKBdw"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/8/out/u/dash/TV-GLOBO-SD-H265/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bw3SVmgw/telefe-int.png" group-title="NOVELAS y VARIEDADES",Telefe
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9AwHrBRP5UkD1rDRS6kKlQ","k":"OvXVovguqGPAkVlYLJCSpg"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/6/out/u/dash/TELEFE-HD-H265/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRbxkWF/antena3-int.png" group-title="NOVELAS y VARIEDADES",Antena 3
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"XNUiIOX9k4D+MCB+NlhaHA","k":"23VtwcRmQTCpjbSIiRetVw"}],"type":"temporary"}
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ANTENA-3-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="NOVELAS y VARIEDADES",Azteca 7
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zo+G0vDRY4V0I3raisLoKg","k":"ZCdy6/GDLx8vpYy36Pz9BQ"}],"type":"temporary"}
 https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="NOVELAS y VARIEDADES",Azteca Uno
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"bAFDXtToOZlvQPjuCJZTJA","k":"dOt7VFEORj6lHcz/gKU/Pg"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/AZTECA-UNO-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="NOVELAS y VARIEDADES",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="NOVELAS y VARIEDADES",Kanal D Drama
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="NOVELAS y VARIEDADES",PLUTO.TV NOVELAS
 https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png" group-title="NOVELAS y VARIEDADES",AZ CORAZÓN
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG.png" group-title="NOVELAS y VARIEDADES",PLUTO.TV NOVELAS CONTINENTALES
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="NOVELAS y VARIEDADES",PLUTO.TV NOVELAS DE MEXICO
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="NOVELAS y VARIEDADES",SIN ##### NO HAY PARAÍSO
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" group-title="NOVELAS y VARIEDADES",LA SELECC10N
 https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png" group-title="NOVELAS y VARIEDADES",PLUTO.TV NOVELAS DE VENEZUELA
 https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/colorLogoPNG.png" group-title="NOVELAS y VARIEDADES",PLUTO.TV AMOR Y MENTIRA
 https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" group-title="NOVELAS y VARIEDADES",Canal 5
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KowtUIg3f1H4Jdhx5Wi+GQ","k":"61qNtkyhmSOJZy7blEfHEQ"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bt996SPz/las-estrellas.png" group-title="NOVELAS y VARIEDADES",Las Estrellas
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"3cmZlUHa1nn0yteLCn5CRw","k":"upUUOStZDXwfOwwGoQ48iA"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/LAS-ESTRELLAS-RDF-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0gqJXkD/4-monterrey.png" group-title="NOVELAS y VARIEDADES",Televisa Monterrey
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"o3jf5iUeMwPFk04X1+Fa9A","k":"XHRoRDiawbaYp2fDXw7k8w"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/out/u/dash/CDMX1/XEFB-CANAL-34-LOCAL-MTY-SD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncZDsvKy/4-guadalajara.png" group-title="NOVELAS y VARIEDADES",Televisa Guadalajara
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JAJeT1z6xJcRnsq8U8UBNg","k":"XJZ7YrQgvegD8wGP/EXLnA"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/out/u/dash/ZAP1/CANAL-4-GDL-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HqPNtN1/mtv.png?worldtv2" group-title="NOVELAS y VARIEDADES",MTV
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rBG6dT/KvFa5ZeGAH/jfGQ","k":"ZKeFLMdzdRWsccAX8D/dMg"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/MTV-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02nDpBGh/e.png?worldtv2" group-title="NOVELAS y VARIEDADES",E! Entertainment
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZqXYljCj4iY/Y/QiIaTz6A","k":"NiuNSqKJBC5HPtBkpyJhGw"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/E-Entertainment-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/313/CH_LOGO/800/542/0/0/30883628072788.png?worldtv2" group-title="NOVELAS y VARIEDADES",Lifetime
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZWGAG3WrJYGfx+3jZTdd9w","k":"NVWzRMVCBNXwKnU9NU0vjA"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/13/out/u/dash/LIFETIME-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z2BBVfR/unicable.png" group-title="NOVELAS y VARIEDADES",Unicable
 #EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 16) ExoPlayerLib/2.14.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9JyAmpnQRUmBrmcA0lug+w","k":"GZm1+/0Fi8GirPPTzbenjQ"}],"type":"temporary"}
 https://aca-live4-ott.izzigo.tv/12/out/u/dash/UNICABLE-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png" group-title="DEPORTES LATINO",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=espn
 https://la14hd.com/vivo/canales.php?stream=espn
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/4/1/espn-2-logo-png_seeklogo-49202.png" group-title="DEPORTES LATINO",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=espn2
 https://la14hd.com/vivo/canales.php?stream=espn2
+
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1599250.png" group-title="DEPORTES LATINO",ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=espn3
 https://la14hd.com/vivo/canales.php?stream=espn3
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="DEPORTES LATINO",ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=espn4
 https://la14hd.com/vivo/canales.php?stream=espn4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINO",ESPN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=espn5
 https://la14hd.com/vivo/canales.php?stream=espn5
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINO",ESPN 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=espn6
 https://la14hd.com/vivo/canales.php?stream=espn6
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="DEPORTES LATINO",ESPN 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=espn7
 https://la14hd.com/vivo/canales.php?stream=espn7
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="DEPORTES LATINO",FOX SPORTS AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=foxsports
 https://la14hd.com/vivo/canales.php?stream=foxsports
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="DEPORTES LATINO",FOX SPORTS 2 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=foxsports2
 https://la14hd.com/vivo/canales.php?stream=foxsports2
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="DEPORTES LATINO",FOX SPORTS 3 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=foxsports3
 https://la14hd.com/vivo/canales.php?stream=foxsports3
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="DEPORTES LATINO",WIN SPORTS +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=la14hd.com/vivo/canales.php?stream=winsportsplus
 la14hd.com/vivo/canales.php?stream=winsportsplus
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="DEPORTES LATINO",WIN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=winsports
 https://la14hd.com/vivo/canales.php?stream=winsports
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/64/1/win-sports-logo-png_seeklogo-644046.png" group-title="DEPORTES LATINO",Win sports plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=winsportsplus
 https://la14hd.com/vivo/canales.php?stream=winsportsplus
+
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg" group-title="DEPORTES LATINO",Dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=dsports
 https://la14hd.com/vivo/canales.php?stream=dsports
+
 #EXTINF:-1 tvg-logo="https://bestleague.world/img/dsports2.webp" group-title="DEPORTES LATINO",Dsports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=dsports2
 https://la14hd.com/vivo/canales.php?stream=dsports2
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DEPORTES LATINO",DSPORTS +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=la14hd.com/vivo/canales.php?stream=dsportsplus
 la14hd.com/vivo/canales.php?stream=dsportsplus
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRmXneK.png" group-title="DEPORTES LATINO",LIGA1 MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=liga1max
 https://la14hd.com/vivo/canales.php?stream=liga1max
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zt3iE86.png" group-title="DEPORTES LATINO",MOVISTAR DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=movistar
 https://la14hd.com/vivo/canales.php?stream=movistar
+
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png" group-title="DEPORTES LATINO",TNT SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=tntsports
 https://la14hd.com/vivo/canales.php?stream=tntsports
+
 #EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/837767101_ESPNPremium(10).thumb.png.7b760af4908388e4ef1e793583699676.png" group-title="DEPORTES LATINO",ESPN PREMIUM AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=espnpremium
 https://la14hd.com/vivo/canales.php?stream=espnpremium
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="DEPORTES EUROPA",DAZN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=dazn1
 https://la14hd.com/vivo/canales.php?stream=dazn1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="DEPORTES EUROPA",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=dazn2
 https://la14hd.com/vivo/canales.php?stream=dazn2
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="DEPORTES EUROPA",DAZN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/vivo/canales.php?stream=dazn3
